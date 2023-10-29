@@ -11,13 +11,20 @@
 
 <h2>:pencil: Blog</h2>
 
-- <b>Cybersecurity</b>
-  - [Full Collection](https://www.walkingeclipse.com/blog)
+- <b>Social Engineering</b>
+  - [You've Been Fooled...](https://www.walkingeclipse.com/post/you-ve-been-fooled-social-engineering)
+  - <b>[Am I Being Phished?..](https://www.walkingeclipse.com/post/am-i-being-phished)</b>
+- <b>Education</b>
+  - <b>[Cybersecurity & End-User Education...](https://www.walkingeclipse.com/post/cybersecurity-end-user-education)</b>
+  
 
-<h2>:pencil2: CTF Writeups</h2>
+<h2>:pencil2: Writeups</h2>
 
-- <b>CTFs</b>
-  - [Full Collection](https://www.walkingeclipse.com/portfolio-collections/ctf)
+- <b>Hacker101</b>
+  - [A little something to get you started CTF Walkthrough](https://www.walkingeclipse.com/ctfs/a-little-something-to-get-you-started-ctf-walkthrough)
+  - [Petshop Pro Walkthrough](https://www.walkingeclipse.com/ctfs/petshop-pro-walkthrough-)
+  - [Postbook CTF Walkthrough](https://www.walkingeclipse.com/ctfs/postbook-ctf-walkthrough)
+
 
 <h2>:handshake: Connect with me</h2>
 
