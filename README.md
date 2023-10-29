@@ -9,19 +9,15 @@
   - [Link Title](URL Link)
 -->
 
-<h2>:pencil: Blogs</h2>
+<h2>:pencil: Blog</h2>
 
-- <b>Blog Topic</b>
-  - [Blog Title](URL Link)
-- <b>Blog Topic</b>
-  - [Blog Title](URL Link)
+- <b>Cybersecurity</b>
+  - [Full Collection](https://www.walkingeclipse.com/blog)
 
-<h2>:pencil2: Writeups</h2>
+<h2>:pencil2: CTF Writeups</h2>
 
-- <b>TryHackMe</b>
-  - [Link Name] (URL Link)
-- <b>Hacker101</b>
-  - [Link Name] (URL Link)
+- <b>CTFs</b>
+  - [Full Collection](https://www.walkingeclipse.com/portfolio-collections/ctf)
 
 <h2>:handshake: Connect with me</h2>
 
