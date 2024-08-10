@@ -1,6 +1,6 @@
 <h1>👋 Welcome!..</h1> 
 
-<p>I am Maria, a Cybersecurity Analyst :woman_technologist:... </br> My journey into cybersecurity started with a profound curiosity about how technology works and a deep concern for the increasing threats in cyberspace. This led me to deeply explore various areas as a means to understand, detect, and mitigate vulnerabilities that could compromise data and systems. Below you will find links to various projects I have completed, blogs I write discussiong various cybersecurity topics, and writeups of different CTF challenges I've done.</p> 
+<p>I am Maria, a Cybersecurity Professional :woman_technologist:... </br> My journey into cybersecurity started with a profound curiosity about how technology works and a deep concern for the increasing threats in cyberspace. This led me to deeply explore various areas as a means to understand, detect, and mitigate vulnerabilities that could compromise data and systems. Below you will find links to various projects I have completed, blogs I write discussiong various cybersecurity topics, and writeups of different CTF challenges I've done.</p> 
 
 <h2>:computer: Cybersecurity Projects...</h2>
   Coming Soon ...
