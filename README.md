@@ -1,6 +1,6 @@
 <h1>👋 Welcome!</h1> 
 
-<p> My journey into cybersecurity started with a profound curiosity about how technology works and a deep concern for the increasing threats in cyberspace. This led me to deeply explore various areas as a means to understand, detect, and mitigate vulnerabilities that could compromise data and systems. Join me as I explore the world of cybersecurity, decode complex concepts, and break down labs — all while keeping it fun along the way!</p> 
+<p> My journey into cybersecurity started with a profound curiosity about how technology works and a deep concern for the increasing threats in cyberspace. This led me to deeply explore various areas as a means to understand, detect, and mitigate vulnerabilities that could compromise data and systems. Join me as I explore the world of cybersecurity, decode complex concepts, and break down labs — all while keeping it fun!</p> 
 
 <h2>:computer: Cybersecurity Projects</h2>
   Coming Soon ...
