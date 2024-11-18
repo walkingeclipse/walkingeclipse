@@ -17,9 +17,9 @@
 <h2>:pencil2: Writeups</h2>
 
 - <b>Hacker101</b>
-  - [A little something to get you started CTF Walkthrough...]()
-  - [Petshop Pro Walkthrough...]()
-  - [Postbook CTF Walkthrough...]()
+  - [A little something to get you started CTF Walkthrough...](https://medium.com/@thewalkingeclipse/a-little-something-to-get-you-started-ctf-walkthrough-aefecf9a0af1)
+  - [Petshop Pro Walkthrough...](https://medium.com/@thewalkingeclipse/petshop-pro-walkthrough-ee868597f704)
+  - [Postbook CTF Walkthrough...](https://medium.com/@thewalkingeclipse/postbook-ctf-walkthrough-ee3de79c6b7d)
 
 
 <h2>:handshake: Connect with me</h2>
